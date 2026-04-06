@@ -116,5 +116,5 @@ Projetos de saúde pública e ESG
 LinkedIn: https://linkedin.com/in/renancostaviana
 E-mail: renan.cv@outlook.com.br
 
-##*✨ Projeto desenvolvido para demonstrar estruturação de pipelines de dados
+## *✨ Projeto desenvolvido para demonstrar estruturação de pipelines de dados
 aplicados a contextos públicos e sensíveis.*
